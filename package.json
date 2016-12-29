@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hangilc/myclinic-web-reception#readme",
   "dependencies": {
-    "myclinic-reception": "^1.0.0",
+    "myclinic-reception": "^1.0.1",
     "myclinic-web": "^1.0.10"
   }
 }
